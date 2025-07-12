@@ -21,7 +21,7 @@ Built with `roberta-base`, BiLSTM, and attention mechanism.
 ## 🔗 Links
 
 - 🔍 **Model weights**:  
-  [📦 Roberta-BiLSTM-Attention Model on google drive](https://huggingface.co/hrnrxb/roberta-bilstm-attention-sentiment)
+  [📦 Roberta-BiLSTM-Attention Model on Hugging Face](https://huggingface.co/hrnrxb/roberta-bilstm-attention-sentiment)
 
 - 🚀 **Live demo** (Gradio app):  
   [🌐 Try it on Hugging Face Spaces](https://huggingface.co/spaces/hrnrxb/roberta-bilstm-attention-sentiment)
